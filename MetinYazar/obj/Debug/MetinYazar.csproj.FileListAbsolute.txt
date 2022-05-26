@@ -1,0 +1,10 @@
+C:\Users\senak\Desktop\MetinYazar\MetinYazar\obj\Debug\MetinYazar.csprojAssemblyReference.cache
+C:\Users\senak\Desktop\MetinYazar\MetinYazar\obj\Debug\MetinYazar.Properties.Resources.resources
+C:\Users\senak\Desktop\MetinYazar\MetinYazar\obj\Debug\MetinYazar.csproj.GenerateResource.cache
+C:\Users\senak\Desktop\MetinYazar\MetinYazar\obj\Debug\MetinYazar.csproj.CoreCompileInputs.cache
+C:\Users\senak\Desktop\MetinYazar\MetinYazar\obj\Debug\MetinYazar.Form1.resources
+C:\Users\senak\Desktop\MetinYazar\MetinYazar\bin\Debug\MetinYazar.exe.config
+C:\Users\senak\Desktop\MetinYazar\MetinYazar\bin\Debug\MetinYazar.exe
+C:\Users\senak\Desktop\MetinYazar\MetinYazar\bin\Debug\MetinYazar.pdb
+C:\Users\senak\Desktop\MetinYazar\MetinYazar\obj\Debug\MetinYazar.exe
+C:\Users\senak\Desktop\MetinYazar\MetinYazar\obj\Debug\MetinYazar.pdb
