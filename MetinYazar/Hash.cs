@@ -18,9 +18,30 @@ namespace MetinYazar
         {
             HashNode add = new HashNode();
             add.Data = word;
-            
 
-            
+            int index = (key % 20);
+            if (hashTable[index] == null)
+            {
+                add.Next = null;
+                hashTable[index] = add;
+
+
+            }
+            else
+            {
+                HashNode temp = hashTable[index];
+                while (temp.Next != null)
+                {
+                    temp = temp.Next;
+                }
+
+                temp.Next = add;
+                add.Next = null;
+
+            }
+
+
+
         }
        
         
